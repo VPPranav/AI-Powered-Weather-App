@@ -276,7 +276,3 @@ See the [LICENSE](LICENSE) file for details.
 
 ```
 
----
-
-Let me know if you'd like a version with badges, license shields, or multilingual support.
-```

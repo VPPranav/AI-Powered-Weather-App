@@ -274,5 +274,4 @@ See the [LICENSE](LICENSE) file for details.
 **Made with ❤️ by [VPPranav](https://github.com/VPPranav)**
 © 2025 WeatherAI. All rights reserved.
 
-```
 

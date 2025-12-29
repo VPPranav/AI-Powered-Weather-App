@@ -20,13 +20,6 @@ A modern, AI-powered weather application built with **Next.js 15**, offering rea
 
 ---
 
-## 🚀 Live Demo
-
-👉 [View Live Demo](https://your-weather-ai-app.vercel.app)  
-*Replace the above link with your actual deployment URL.*
-
----
-
 ## 🛠️ Tech Stack
 
 | Layer       | Technologies |
@@ -254,7 +247,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
-* Check [GitHub Issues](https://github.com/VPPranav/weather-ai-app/issues)
+* Check [GitHub Issues](https://github.com/VPPranav/AI-Powered-Weather-App/issues)
 * Contact [@VPPranav](https://github.com/VPPranav)
 
 ---
@@ -273,5 +266,3 @@ See the [LICENSE](LICENSE) file for details.
 
 **Made with ❤️ by [VPPranav](https://github.com/VPPranav)**
 © 2025 WeatherAI. All rights reserved.
-
-

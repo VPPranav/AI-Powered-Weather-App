@@ -1,9 +1,6 @@
 # 🌤️ WeatherAI – Smart Weather Insights
 
 A modern, AI-powered weather application built with **Next.js 15**, offering real-time weather data along with intelligent insights and personalized recommendations.
-
-![WeatherAI Screenshot](https://via.placeholder.com/800x400/1e293b/ffffff?text=WeatherAI+Dashboard)
-
 ---
 
 ## ✨ Features
